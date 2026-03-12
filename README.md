@@ -5,7 +5,6 @@ Hi, I'm Oswald Loh 👋
 
 <h2> 📊 Github Stats </h2> <br>
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=OswaldLoh&theme=dark&show_icons=true&hide_border=false&count_private=true" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=OswaldLoh&theme=dark&hide_border=false" />
 </div>
 
