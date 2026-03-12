@@ -5,7 +5,7 @@ Hi, I'm Oswald Loh 👋
 
 📊 Github Stats <br>
 <div align="center">
-  ![OswaldLoh's Stats](https://github-readme-stats.vercel.app/api?username=OswaldLoh&theme=dark&show_icons=true&hide_border=false&count_private=true) <br>
+  ![OswaldLoh's Stats](https://github-readme-stats.vercel.app/api?username=OswaldLoh&theme=dark&show_icons=true&hide_border=false&count_private=true)
   ![OswaldLoh's Streak](https://github-readme-streak-stats.herokuapp.com/?user=OswaldLoh&theme=dark&hide_border=false)
 </div>
 
