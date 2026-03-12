@@ -1,6 +1,4 @@
-Hi, I'm Oswald Loh 👋
-
-<h2> 🙋🏻‍♂️ About Me </h2> <br>
+<h2> 🙋🏻‍♂️ About Me </h2>
 🎓 Currently pursuing a Bachelor's Degree in Computer Science (Data Analytics) at Asia Pacific University (APU).
 
 <h2> 📊 Github Stats </h2> <br>
