@@ -1,4 +1,13 @@
-## Hi there 👋
+Hi, I'm Oswald Loh 👋
+
+🎓 Currently pursuing a Bachelor's Degree in Computer Science (Data Analytics) at Asia Pacific University (APU).
+
+📊 Github Stats
+![OswaldLoh's Stats](https://github-readme-stats.vercel.app/api?username=OswaldLoh&theme=dark&show_icons=true&hide_border=false&count_private=true)
+![OswaldLoh's Streak](https://github-readme-streak-stats.herokuapp.com/?user=OswaldLoh&theme=dark&hide_border=false)
+
+💻 Tech Stack
+<img width="836" height="892" alt="image" src="https://github.com/user-attachments/assets/6bda2faf-8b1a-42fc-861b-a2ee3c4ed920" />
 
 <!--
 **OswaldLoh/OswaldLoh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
