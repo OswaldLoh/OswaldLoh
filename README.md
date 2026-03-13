@@ -5,9 +5,7 @@
 💼 Currently looking for internship opportunities to gain real world experience by contributing to meaningful projects.
 
 <h2> 📊 Github Stats </h2> <br>
-<div align="center">
-  https://github-readme-streak-stats.herokuapp.com/?user=OswaldLoh&theme=dark&hide_border=true)
-</div>
+[![GitHub Streak](https://streak-stats.demolab.com/?user=OswaldLoh&theme=dark&hide_border=true)](https://git.io/streak-stats)
 
 
 <h2> 💻 Tech Stack </h2>
