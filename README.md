@@ -6,8 +6,7 @@
 
 <h2> 📊 Github Stats </h2> <br>
 <div align="center">
-  ![OswaldLoh's Streak](https://github-readme-streak-stats.herokuapp.com/?user=OswaldLoh&theme=dark&hide_border=true)
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=OswaldLoh&theme=dark&hide_border=false" />
+  https://github-readme-streak-stats.herokuapp.com/?user=OswaldLoh&theme=dark&hide_border=true)
 </div>
 
 
