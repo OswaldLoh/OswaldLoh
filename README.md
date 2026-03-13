@@ -7,6 +7,7 @@
 <h2> 📊 Github Stats </h2> <br>
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=OswaldLoh&theme=dark&hide_border=false" />
+  <img src=![OswaldLoh's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=OswaldLoh&theme=dark&show_icons=true&hide_border=true&layout=compact)>
 </div>
 
 
