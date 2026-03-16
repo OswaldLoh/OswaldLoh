@@ -1,7 +1,7 @@
 <h2> 🙋🏻‍♂️ About Me </h2>
 🎓 Currently pursuing a <strong>Bachelor's Degree in Computer Science (Data Analytics)</strong> at <strong>Asia Pacific University (APU)</strong>. <br>
 💡 Passionate about learning new skills and technologies for continuous self improvement. <br>
-📝 Learning C#, C++ and Assembly. <br>
+📝 Learning ASP.NET + HTML/CSS , C++ and Assembly. <br>
 💼 Currently looking for internship opportunities to gain real world experience by contributing to meaningful projects.
 
 <h2> 📊 Github Stats </h2> <br>
